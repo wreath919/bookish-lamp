@@ -1,8 +1,8 @@
 <?php
 //connect to database(mission 2-7)
-$dsn='mysql:dbname=co_30_99sv_coco_com;host=localhost';
-$user='co-30.99sv-coco.';
-$password='Svy7Ed';
+$dsn='DBname';
+$user='username';
+$password='password';
 $pdo= new PDO($dsn,$user,$password);
 
 /*
